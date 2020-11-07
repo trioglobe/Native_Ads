@@ -1,3 +1,3 @@
 # Native_Ads
 
-![Native_Ads](output.gif)
+![Native_Ads](output.webp)
